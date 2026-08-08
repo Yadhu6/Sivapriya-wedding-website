@@ -13,7 +13,7 @@ A modern luxury, mobile-friendly wedding website for Sivapriya & Yadhukrishnan.
 ## Wedding information included
 - Sivapriya first
 - Wedding date: 24 January 2027
-- Muhurtham: 10:45 AM TO 11:45 AM
+- Muhurtham: 10:45 AM
 - Venue: Annapoorna Auditorium, Thodupuzha
 - Reception destination is intentionally not included
 
