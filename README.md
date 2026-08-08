@@ -1,12 +1,22 @@
-# Sivapriya Bride-Side Wedding Website
+# Premium Modern Bride-Side Wedding Website
 
-GitHub Pages-ready static wedding website.
+A modern luxury, mobile-friendly wedding website for Sivapriya & Yadhukrishnan.
 
-## Publish on GitHub Pages
-1. Create a NEW public repository.
-2. Upload `index.html` directly to the repository root (not inside another folder).
-3. Open **Settings → Pages**.
-4. Under **Build and deployment**, choose **Deploy from a branch**.
-5. Select branch **main** and folder **/(root)**, then Save.
+## Design
+- Editorial luxury layout
+- Minimal black / champagne / plum palette
+- Glassmorphism accents
+- Smooth reveal animations
+- Premium countdown section
+- Mobile-first responsive styling
 
-The website contains only the wedding venue: Annapoorna Auditorium, Thodupuzha. No reception destination is included.
+## Wedding information included
+- Sivapriya first
+- Wedding date: 24 January 2027
+- Muhurtham: 10:30 AM
+- Venue: Annapoorna Auditorium, Thodupuzha
+- Reception destination is intentionally not included
+
+## GitHub Pages
+Upload everything in this folder to a GitHub repository, then enable:
+Settings → Pages → Deploy from a branch → main → /(root)

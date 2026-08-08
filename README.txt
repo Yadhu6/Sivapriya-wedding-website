@@ -1,0 +1,1 @@
+Place wedding photos or optional media in this folder.
